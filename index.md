@@ -1,2 +1,2 @@
 # yay bookmarks
-<img src="" width=128 height=128 />
+<img src="fileicon.svg" width=128 height=128 />
