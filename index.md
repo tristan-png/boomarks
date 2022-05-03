@@ -1,2 +1,2 @@
 # yay bookmarks
-![music icon](assets/musicicon.svg)
+<img src=assets/musicicon.svg" width="128"/>
